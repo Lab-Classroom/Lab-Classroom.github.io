@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+# TC1002S-El arte de la analítica - GitHub
 
-You can use the [editor on GitHub](https://github.com/Lab-Classroom/Lab-Classroom.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Temas
+- Control de versiones
+- GitHub
+- Comunidad Alumnos - Profesores del Tec de Monterrey de GitHub
+- Herramientas de Apoyo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+![.git](images/git.png)
+# Control de Versiones - git
 
-### Markdown
+## ¿Qué es Control de versiones?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## ¿Qué es git?
 
-- Bulleted
-- List
+Es una herrramienta que se encarga de almacenar una foto (snapshot) de cada archivo cuando este es modificado y guarda una referencia a esta copia instantanea. En caso de que el archivo no haya sido modificado, git lo que hace es que almacena una referencia al archivo anterior idéntico.
+![¿Qué es git?](images/git-what-is.png)
 
-1. Numbered
-2. List
+## Tres estados de git
 
-**Bold** and _Italic_ and `Code` text
+- confirmado (commited)
+- modificado (modified)
+- preparado (staged)
+![3 stages](images/git3stages.png)
 
-[Link](url) and ![Image](src)
-```
+## Comandos git
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lab-Classroom/Lab-Classroom.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![GitHub](images/GitHub.png)
+# GitHub
 
-### Support or Contact
+## ¿Que es GitHub?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Es una plataforma de colaboración
+- Es una herramiento de control de versiones
+- Es una plataforma de apoyo al desarrollo de aplicaciones muy tulizada en el mundo.
+- Herramienta para el apoyo en la administración de proyectos de desarrollo de aplicaciones
+[![¿Qué es GitHub](images/GitHub-logo-what-is.png)](http://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+
+### [Curso de introducción a GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+
+---
+
+# Comunidad GitHub Tec de Monterrey
+
+Espacio de colaboración entre alumnos y profesores para compartir mejores prácticas, cursos, noticias, eventos y avisos sobre el uso de GitHub Empresarial en el Tec de Monterrey.
+
+### [Comunidad GitHub en Microsoft Teams](http://bit.ly/GitHubTecMty)
+
+
+---
+# Herramientas de apoyo 
+
+[![GitHub Education](images/githubeducation.png)](https://education.github.com/)
+
+[![Student Developer Pack](images/studentdeveloperpack.png)](https://education.github.com/pack)
+
+
+[![GitHub Education community](images/learninglab.png)](https://lab.github.com/)
+ 
+
+[![GitHub Education community](images/EducationCommunity.png)](https://education.github.community/)
+ 
+
+## Referencias
+https://git-scm.com/
+
+https://guides.github.com/
+
+
