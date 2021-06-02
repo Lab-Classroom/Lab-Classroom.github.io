@@ -1,4 +1,5 @@
-# TC1002S-El arte de la analítica - GitHub
+# GitHub - Classroom
+![GitGub Classroom](images/classroom.png)
 
 # Agenda del curso
 
