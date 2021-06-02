@@ -3,7 +3,7 @@
 
 # Agenda del curso
 
-## Miércoles 2 de Junio de 2pm a 5pm**
+## Miércoles 2 de Junio de 2pm a 5pm
 - Introducción GitHub Classroom
 - Ambientes de Trabajo – Herramientas (IDE)
 - Git
@@ -96,13 +96,43 @@ Espacio de colaboración entre alumnos y profesores para compartir mejores prác
 
 ### [Comunidad GitHub Classroom en Microsoft Teams](http://bit.ly/GitHub-Classroom)
 
+---
+# GitHub - Classroom
+![GitGub Classroom](images/classroom.png)
+
+## Apoyos
+
+- ### [Documentación GitHub Classroom ](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom)
+
+- ### [Autograding en GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
+
+- ### [Publicación en GitHub Education Comunity para compartir templates de actividades](https://education.github.community/t/share-your-autograding-templates-here/54684)
+
+---
+# Autograding
+
+
+
+## Herramientas de Testing
+
+## Python
+
+![Pytest](images/pytest.png)
+
+### [Documentación Pytest](https://docs.pytest.org/en/6.2.x/)
+
+## c++
+
+![Catch2](images/catch2.png)
+
+### [Documentación Catch2](https://github.com/catchorg/Catch2)
 
 ---
 # Herramientas de apoyo 
 
 [![GitHub Education](images/githubeducation.png)](https://education.github.com/)
 
-[![Student Developer Pack](images/studentdeveloperpack.png)](https://education.github.com/pack)
+[![Teacher Toolbx](images/teacher-toolbox.png)](https://education.github.com/toolbox)
 
 
 [![GitHub Education community](images/learninglab.png)](https://lab.github.com/)
